@@ -1,1 +1,2 @@
 # Machine-Learning-Stanford-University
+This is how I tackled all the programming assignments of the Machine Learning Course taught by Andrew Ng on Coursera. Post completion of this course you will get a broad understanding of the various Machine learning algorithms out there. Try doing the assignments by yourself first, but if you get stuck feel free to browse throught the codes I've uploaded. There NO point copy-pasting the code, so try it yourself FIRST.
